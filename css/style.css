@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background: #f1fbff;
+}
+
+.section-padding {
+  padding: 100px 0;
+}
+
+body {
+  background-color: #e2dfdf;
+}
+
+header {
+  padding: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: black;
+  color: #ffffff;
+
+}
+
+.nav-link {
+  font-size: 20px;
+  color: #fd9f0d
+}
+
+.hero-banner {
+  height: 700px;
+  width: 100%;
+  margin-bottom: 25px;
+  background-image: url("../images/IMG_0029.jpg");
+  background-size: cover;
+  background-position: center;
+  display: re
+}
+
+.text-header {
+  padding: 70px;
+  text-align: center;
+  margin: 30px
+}
+
+.text-center img {
+
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  margin: 25px
+}
+
+main {
+  width: 75%;
+  margin-left: 20px;
+  margin: 0 auto;
+}
+
+.navbar .getstarted {
+  background: #106eea;
+  margin-left: 30px;
+  border-radius: 4px;
+  font-weight: 400;
+  color: #fff;
+  text-decoration: none;
+  padding: .5rem 1rem;
+  line-height: 2.3;
+}
+
+.navbar-nav a {
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.navbar-light .navbar-brand {
+  color: #000;
+  font-size: 25px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.navbar-light .navbar-brand:focus,
+.navbar-light .navbar-brand:hover {
+  color: #000;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #000;
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #000;
+}
+
+.w-100 {
+  height: 100vh;
+}
+
+.navbar-toggler {
+  padding: 1px 5px;
+  font-size: 18px;
+  line-height: 0.3;
+  background: #fff;
+}
+
+.portfolio .card {
+  box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
+}
+
+.team .card {
+  box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
+}
+
+.services .card-body i {
+  font-size: 50px;
+}
+
+.team .card-body i {
+  font-size: 20px;
+}
+
+.nav-item:hover {
+  background-color: rgb(0, 183, 255);
+  color: rgb(10, 1, 1);
+  opacity: 0.7;
+  border-radius: 15%;
+}
+
+.btn:hover {
+  background-color: rgb(3, 3, 27);
+  color: rgb(250, 243, 243);
+  opacity: 0.9;
+}
+
+button .btn:hover {
+  background-color: rgb(3, 3, 27);
+  color: rgb(250, 243, 243);
+  opacity: 0.9;
+}
+
+button:hover {
+  background-color: rgb(3, 3, 27);
+  color: rgb(250, 243, 243);
+  opacity: 0.9;
+}
+
+.fa {
+  padding: 20px;
+  text-align: center;
+  margin: 5px 2px;
+  font-size: 30px;
+  width: 50px;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa:hover {
+  opacity: 0.5;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .card {
+    margin-bottom: 30px;
+  }
+
+  .img-area img {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .navbar-nav {
+    text-align: center;
+  }
+
+  .about-text {
+    padding-top: 50px;
+  }
+
+  .card {
+    margin-bottom: 30px;
+  }
+}
