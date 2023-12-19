@@ -1,6 +1,6 @@
 # Bootstrap-Portfolio
 
-Using Bootstrap, recreate your portfolio site with the following items:
+Using Bootstrap, recreating portfolio site with the following items:
 
 ## A navigation bar
 
@@ -53,3 +53,5 @@ Work screen : ![Alt text](images/Final_work%20screen.png)
 Skills screen : ![Alt text](images/Final_Skills%20screen.png)
 
 Contact & Footer screen : ![Alt text](images/Final_Contact%20and%20Footer.png)
+
+## deployed page - https://venkatdangeti.github.io/Bootstrap-Portfolio/
