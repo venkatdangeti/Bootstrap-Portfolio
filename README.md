@@ -54,4 +54,9 @@ Skills screen : ![Alt text](images/Final_Skills%20screen.png)
 
 Contact & Footer screen : ![Alt text](images/Final_Contact%20and%20Footer.png)
 
-## deployed page - https://venkatdangeti.github.io/Bootstrap-Portfolio/
+
+## Git Hub page - https://github.com/venkatdangeti/Bootstrap-Portfolio.git
+
+## deployed site page - https://venkatdangeti.github.io/Bootstrap-Portfolio/
+
+
